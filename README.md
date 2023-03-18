@@ -1,0 +1,1 @@
+# android_vendor_wheatek_wp17
